@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Tests.TestRegistration]">
+  <test name="Command line test 4af7a18e-c2b8-4872-91fb-570a33ea8b8d(failed)">
+    <classes>
+      <class name="Tests.TestRegistration">
+        <methods>
+          <include name="testRegistrationFormInput"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- Tests.TestRegistration -->
+    </classes>
+  </test> <!-- Command line test 4af7a18e-c2b8-4872-91fb-570a33ea8b8d(failed) -->
+</suite> <!-- Failed suite [Tests.TestRegistration] -->

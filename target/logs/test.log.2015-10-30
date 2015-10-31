@@ -1,0 +1,51 @@
+2015-10-30 13:40:00 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-10-30 13:40:00 Page [INFO] - Start open page
+2015-10-30 13:40:07 Page [INFO] - Page open successful
+2015-10-30 13:40:09 WebElementsActions [INFO] - click ButtonLogo
+2015-10-30 13:40:11 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-10-30 13:40:13 Page [INFO] - SwitchTo Login Page was correct
+2015-10-30 13:40:13 WebElementsActions [INFO] - input - admin, to  - EmailField
+2015-10-30 13:40:13 WebElementsActions [INFO] - click ButtonPassField
+2015-10-30 13:40:13 WebElementsActions [INFO] - input - admin, to  - PassFieldInput
+2015-10-30 13:40:15 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-10-30 14:31:25 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-10-30 14:31:25 Page [INFO] - Start open page
+2015-10-30 14:32:48 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-10-30 14:32:48 Page [INFO] - Start open page
+2015-10-30 14:32:57 Page [INFO] - Page open successful
+2015-10-30 14:33:01 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-10-30 14:33:06 Page [INFO] - SwitchTo Login Page was correct
+2015-10-30 14:33:06 WebElementsActions [INFO] - input - romanpopov89@yahoo.com, to  - RegistrationFirst
+2015-10-30 14:33:07 WebElementsActions [INFO] - input - romanpopov89@yahoo.com, to  - RegistrationSecond
+2015-10-30 14:33:08 WebElementsActions [INFO] - click ButtonRegistrationPassword
+2015-10-30 14:33:08 WebElementsActions [INFO] - input - asdf, to  - RegistrationPasswordinput
+2015-10-30 14:33:08 WebElementsActions [INFO] - input - romanpopov89@yahoo.com, to  - RegistrationSecond
+2015-10-30 14:33:08 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-10-30 14:33:11 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-10-30 14:35:03 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-10-30 14:35:03 Page [INFO] - Start open page
+2015-10-30 14:35:08 Page [INFO] - Page open successful
+2015-10-30 14:35:15 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-10-30 14:35:19 Page [INFO] - SwitchTo Login Page was correct
+2015-10-30 14:35:19 WebElementsActions [INFO] - input - romanpopov89@yahoo.com, to  - RegistrationFirst
+2015-10-30 14:35:20 WebElementsActions [INFO] - input - romanpopov89@yahoo.com, to  - RegistrationSecond
+2015-10-30 14:35:20 WebElementsActions [INFO] - click ButtonRegistrationPassword
+2015-10-30 14:35:20 WebElementsActions [INFO] - input - asdf, to  - RegistrationPasswordinput
+2015-10-30 14:35:21 WebElementsActions [INFO] - click ButtonRegistrationPasswordconfirm
+2015-10-30 14:35:21 WebElementsActions [INFO] - input - asdf, to  - RegistrationPasswordconfirminput
+2015-10-30 14:35:26 WebElementsActions [INFO] - click ButtonRegistrationButton
+2015-10-30 14:35:30 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-10-30 14:49:44 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-10-30 14:49:44 Page [INFO] - Start open page
+2015-10-30 14:49:54 Page [INFO] - Page open successful
+2015-10-30 14:50:42 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-10-30 14:52:34 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-10-30 14:52:34 Page [INFO] - Start open page
+2015-10-30 14:52:42 Page [INFO] - Page open successful
+2015-10-30 14:52:48 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-10-30 14:52:55 Page [INFO] - SwitchTo Login Page was correct
+2015-10-30 14:53:44 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-10-30 14:53:49 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-10-30 14:53:49 Page [INFO] - Start open page
+2015-10-30 14:53:55 Page [INFO] - Page open successful
+2015-10-30 14:54:41 Log4Test [INFO] - INFO: "Finish Test Suite execution"

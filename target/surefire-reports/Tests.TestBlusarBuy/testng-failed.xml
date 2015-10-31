@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Tests.TestBlusarBuy]">
+  <test name="Command line test e39200f3-8f46-4032-8b4a-2e6a9e08cca9(failed)">
+    <classes>
+      <class name="Tests.TestBlusarBuy">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDown"/>
+          <include name="testAddtoBasket"/>
+        </methods>
+      </class> <!-- Tests.TestBlusarBuy -->
+    </classes>
+  </test> <!-- Command line test e39200f3-8f46-4032-8b4a-2e6a9e08cca9(failed) -->
+</suite> <!-- Failed suite [Tests.TestBlusarBuy] -->

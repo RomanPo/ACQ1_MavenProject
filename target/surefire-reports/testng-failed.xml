@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Tests.LoginTest]">
+  <test name="Command line test b0005a48-7176-4b59-b560-f37ae8b89336(failed)">
+    <classes>
+      <class name="Tests.LoginTest">
+        <methods>
+          <include name="test1"/>
+          <include name="setUpClass"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Tests.LoginTest -->
+    </classes>
+  </test> <!-- Command line test b0005a48-7176-4b59-b560-f37ae8b89336(failed) -->
+</suite> <!-- Failed suite [Tests.LoginTest] -->
